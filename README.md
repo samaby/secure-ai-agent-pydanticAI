@@ -13,7 +13,7 @@ A Python-based agent for automating and managing banking operations. This projec
 ### Prerequisites
 
 - Python 3.8 or higher
-- [Poetry](https://python-poetry.org/) or pip for dependency management
+
 
 ### Installation
 
