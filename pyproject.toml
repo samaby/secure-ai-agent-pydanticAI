@@ -1,0 +1,11 @@
+[project]
+name = "bank-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "permit>=2.7.2",
+    "pydantic-ai>=0.0.42",
+    "ruff>=0.11.0",
+]
