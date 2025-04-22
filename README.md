@@ -38,5 +38,4 @@ You can modify `bank-agent.py` to customize the agent's behavior or add new feat
 
 - `bank-agent.py` — Main script for the banking agent
 - `pyproject.toml` — Dependency and project configuration
-  SHA256:yiGQB1KGoOTPkZF9Fiq9FYLYdAYJ4U+EI3Phnvh45kc
-  samarachi470@gmail.com
+
